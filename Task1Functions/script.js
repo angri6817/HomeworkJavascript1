@@ -20,3 +20,5 @@ function textToNumbers(textvalues) {
 
     return numbers;
 }
+
+//task 1c)
