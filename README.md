@@ -1,3 +1,3 @@
 # HomeworkJavascript1
-Henriette og Andrea
+Andrea
 For notater
